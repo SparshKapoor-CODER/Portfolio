@@ -1,0 +1,22 @@
+[
+    {
+        "name": "PasuScan",
+        "desc": "AI-powered Automated Body Condition Scoring system for livestock evaluation using PyTorch and Flask. Achieves ~95% accuracy, reducing evaluation time from 30 minutes to seconds.",
+        "image": "pasuscan",
+        "category": "ai",
+        "links": {
+            "view": "https://github.com/SparshKapoor-CODER/PasuScan",
+            "code": "https://github.com/SparshKapoor-CODER/PasuScan"
+        }
+    },
+    {
+        "name": "VIT Leave Management System",
+        "desc": "Secure role-based leave management system for university hostels with QR codes, real-time verification, and admin controls. Built with Flask, MySQL, and JavaScript.",
+        "image": "leave-management",
+        "category": "web",
+        "links": {
+            "view": "https://github.com/SparshKapoor-CODER/LeaveManagement",
+            "code": "https://github.com/SparshKapoor-CODER/LeaveManagement"
+        }
+    }
+]
