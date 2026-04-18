@@ -103,11 +103,11 @@ async function fetchData(type = "skills") {
 
 /* ========== SKILL RING LOGIC ========== */
 const skillLevels = {
-    "C/C++": 80, "Python": 95, "Java": 75, "JavaScript": 85,
+    "C/C++": 75, "Python": 95, "Java": 95, "JavaScript": 85,
     "SQL": 78, "React": 80, "PyTorch": 85, "Machine Learning": 90,
     "Deep Learning": 88, "Data Analysis": 85, "DSA": 92, "NumPy": 90,
-    "Pandas": 88, "Matplotlib": 82, "Seaborn": 75, "Tableau": 70,
-    "Power BI": 68, "Excel": 80, "Git": 88, "GitHub": 88,
+    "Pandas": 88, "Matplotlib": 82, "Seaborn": 75, "Tableau": 90,
+    "Power BI": 70, "Excel": 80, "Git": 88, "GitHub": 88,
     "Flask": 78, "CRUD": 80
 };
 
